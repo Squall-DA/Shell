@@ -1,7 +1,7 @@
 /* 
  * File:   main2.c
  * Author: Daniel huelsman
- * Email: daniel.huelsman@rockets.utoledo.edu
+ * Email:
  * Created on February 8, 2011, 12:04 PM
  */
 
